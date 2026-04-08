@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapi_docs_site=self.webpackChunkapi_docs_site||[]).push([[8616],{40307:e=>{e.exports=JSON.parse('{"title":"API Reference","description":"Documentation for the Lightning APIs","slug":"/category/api-reference","permalink":"/lightning-api-ng/category/api-reference","navigation":{"next":{"title":"LND","permalink":"/lightning-api-ng/api/lnd/"}}}')}}]);
